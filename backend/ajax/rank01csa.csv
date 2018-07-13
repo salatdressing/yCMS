@@ -1,0 +1,319 @@
+0;Entlassen
+1;New Novice
+2;Novice
+3;1st Novice
+4;2nd Novice
+5;3rd Novice
+6;4th Novice
+7;Average Novice
+8;1st Average Novice
+9;2nd Average Novice
+10;3rd Average Novice
+11;Educated Novice A
+12;Educated Novice B
+13;Educated Novice C
+14;Educated Novice D
+15;Warrant Novice
+16;New Protective Agent 0/5
+17;1st Protective Agent1/5
+18;2nd Protective Agent
+19;3rd Protective Agent
+20;4th Protective Agent
+21;Protective Agent A
+22;Protective Agent B
+23;Protective Agent C
+24;Protective Agent D
+25;1st Staff PA
+26;2nd Staff PA
+27;3rd Staff PA
+28;4th Staff PA
+29;Advanced Protective Agent
+30;Warrant Protective Agent
+31;New Guardian
+32;1st Guardian
+33;2nd Guardian
+34;3rd Guardian
+35;4th Guardian
+36;Learned Guardian A
+37;Learned Guardian B
+38;Learned Guardian C
+39;Learned Guardian D
+40;Advanced Guardian
+41;Warrant Guardian
+42;New Confederate
+43;1st Confederate Agent
+44;2nd Confederate Agent
+45;3rd Confederate Agent
+46;4th Confederate Agent
+47;Educated Confederate A
+48;Educated Confederate B
+49;Educated Confederate C
+50;Educated Confederate D
+51;Advanced Confederate Agent
+52;Warrant Confederate Agent
+53;New Officer
+54;Officer A
+55;Officer B
+56;Officer C
+57;Officer D
+58;Trained Officer A
+59;Trained Officer B
+60;Trained Officer C
+61;Trained Officer D
+62;Advanced Officer
+63;Warrant Officer
+64;New Systematic Guide
+65;Systematic Guide A
+66;Systematic Guide B
+67;Systematic Guide C
+68;Systematic Guide D
+69;1st Systematic Guide
+70;2nd Systematic Guide
+71;3rd Systematic Guide
+72;4th Systematic Guide
+73;Advanced Guide
+74;Warrant Guide
+75;New Council Member
+76;Council Member A
+77;Council Member B
+78;Council Member C
+79;Council Member D
+80;1st Council Member
+81;2nd Council Member
+82;3rd Council Member
+83;4th Council Member
+84;Advanced Council Member
+85;Warrant Council Member
+86;New Parliament Dean
+87;Parliament Dean A
+88;Parliament Dean B
+89;Parliament Dean C
+90;Parliament Dean D
+91;1st Parliament Dean
+92;2nd Parliament Dean
+93;3rd Parliament Dean
+94;4th Parliament Dean
+95;Educated Parliament Dean A
+96;Educated Parliament Dean B
+97;Educated Parliament Dean C
+98;Educated Parliament Dean D
+99;Advanced Parliament Dean
+100;Warrant Parliament Dean
+101;New Novice [*]
+102;Novice [*]
+103;1st Novice [*]
+104;2nd Novice [*]
+105;3rd Novice [*]
+106;4th Novice [*]
+107;Average Novice [*]
+108;1st Average Novice [*]
+109;2nd Average Novice [*]
+110;3rd Average Novice [*]
+111;Educated Novice A [*]
+112;Educated Novice B [*]
+113;Educated Novice C [*]
+114;Educated Novice D [*]
+115;Warrant Novice [*]
+116;New Protective Agent 0/5 [*]
+117;1st Protective Agent1/5 [*]
+118;2nd Protective Agent [*]
+119;3rd Protective Agent [*]
+120;4th Protective Agent [*]
+121;Protective Agent A [*]
+122;Protective Agent B [*]
+123;Protective Agent C [*]
+124;Protective Agent D [*]
+125;1st Staff PA [*]
+126;2nd Staff PA [*]
+127;3rd Staff PA [*]
+128;4th Staff PA [*]
+129;Advanced Protective Agent [*]
+130;Warrant Protective Agent [*]
+131;New Guardian [*]
+132;1st Guardian [*]
+133;2nd Guardian [*]
+134;3rd Guardian [*]
+135;4th Guardian [*]
+136;Learned Guardian A [*]
+137;Learned Guardian B [*]
+138;Learned Guardian C [*]
+139;Learned Guardian D [*]
+140;Advanced Guardian [*]
+141;Warrant Guardian [*]
+142;New Confederate [*]
+143;1st Confederate Agent [*]
+144;2nd Confederate Agent [*]
+145;3rd Confederate Agent [*]
+146;4th Confederate Agent [*]
+147;Educated Confederate A [*]
+148;Educated Confederate B [*]
+149;Educated Confederate C [*]
+150;Educated Confederate D [*]
+151;Advanced Confederate Agent [*]
+152;Warrant Confederate Agent [*]
+153;New Officer [*]
+154;Officer A [*]
+155;Officer B [*]
+156;Officer C [*]
+157;Officer D [*]
+158;Trained Officer A [*]
+159;Trained Officer B [*]
+160;Trained Officer C [*]
+161;Trained Officer D [*]
+162;Advanced Officer [*]
+163;Warrant Officer [*]
+164;New Systematic Guide [*]
+165;Systematic Guide A [*]
+166;Systematic Guide B [*]
+167;Systematic Guide C [*]
+168;Systematic Guide D [*]
+169;1st Systematic Guide [*]
+170;2nd Systematic Guide [*]
+171;3rd Systematic Guide [*]
+172;4th Systematic Guide [*]
+173;Advanced Guide [*]
+174;Warrant Guide [*]
+175;New Council Member [*]
+176;Council Member A [*]
+177;Council Member B [*]
+178;Council Member C [*]
+179;Council Member D [*]
+180;1st Council Member [*]
+181;2nd Council Member [*]
+182;3rd Council Member [*]
+183;4th Council Member [*]
+184;Advanced Council Member [*]
+185;Warrant Council Member [*]
+186;New Parliament Dean [*]
+187;Parliament Dean A [*]
+188;Parliament Dean B [*]
+189;Parliament Dean C [*]
+190;Parliament Dean D [*]
+191;1st Parliament Dean [*]
+192;2nd Parliament Dean [*]
+193;3rd Parliament Dean [*]
+194;4th Parliament Dean [*]
+195;Educated Parliament Dean A [*]
+196;Educated Parliament Dean B [*]
+197;Educated Parliament Dean C [*]
+198;Educated Parliament Dean D [*]
+199;Advanced Parliament Dean [*]
+200;Warrant Parliament Dean [*]
+201;New Novice [**]
+202;Novice [**]
+203;1st Novice [**]
+204;2nd Novice [**]
+205;3rd Novice [**]
+206;4th Novice [**]
+207;Average Novice [**]
+208;1st Average Novice [**]
+209;2nd Average Novice [**]
+210;3rd Average Novice [**]
+211;Educated Novice A [**]
+212;Educated Novice B [**]
+213;Educated Novice C [**]
+214;Educated Novice D [**]
+215;Warrant Novice [**]
+216;New Protective Agent 0/5 [**]
+217;1st Protective Agent1/5 [**]
+218;2nd Protective Agent [**]
+219;3rd Protective Agent [**]
+220;4th Protective Agent [**]
+221;Protective Agent A [**]
+222;Protective Agent B [**]
+223;Protective Agent C [**]
+224;Protective Agent D [**]
+225;1st Staff PA [**]
+226;2nd Staff PA [**]
+227;3rd Staff PA [**]
+228;4th Staff PA [**]
+229;Advanced Protective Agent [**]
+230;Warrant Protective Agent [**]
+231;New Guardian [**]
+232;1st Guardian [**]
+233;2nd Guardian [**]
+234;3rd Guardian [**]
+235;4th Guardian [**]
+236;Learned Guardian A [**]
+237;Learned Guardian B [**]
+238;Learned Guardian C [**]
+239;Learned Guardian D [**]
+240;Advanced Guardian [**]
+241;Warrant Guardian [**]
+242;New Confederate [**]
+243;1st Confederate Agent [**]
+244;2nd Confederate Agent [**]
+245;3rd Confederate Agent [**]
+246;4th Confederate Agent [**]
+247;Educated Confederate A [**]
+248;Educated Confederate B [**]
+249;Educated Confederate C [**]
+250;Educated Confederate D [**]
+251;Advanced Confederate Agent [**]
+252;Warrant Confederate Agent [**]
+253;New Officer [**]
+254;Officer A [**]
+255;Officer B [**]
+256;Officer C [**]
+257;Officer D [**]
+258;Trained Officer A [**]
+259;Trained Officer B [**]
+260;Trained Officer C [**]
+261;Trained Officer D [**]
+262;Advanced Officer [**]
+263;Warrant Officer [**]
+264;New Systematic Guide [**]
+265;Systematic Guide A [**]
+266;Systematic Guide B [**]
+267;Systematic Guide C [**]
+268;Systematic Guide D [**]
+269;1st Systematic Guide [**]
+270;2nd Systematic Guide [**]
+271;3rd Systematic Guide [**]
+272;4th Systematic Guide [**]
+273;Advanced Guide [**]
+274;Warrant Guide [**]
+275;New Council Member [**]
+276;Council Member A [**]
+277;Council Member B [**]
+278;Council Member C [**]
+279;Council Member D [**]
+280;1st Council Member [**]
+281;2nd Council Member [**]
+282;3rd Council Member [**]
+283;4th Council Member [**]
+284;Advanced Council Member [**]
+285;Warrant Council Member [**]
+286;New Parliament Dean [**]
+287;Parliament Dean A [**]
+288;Parliament Dean B [**]
+289;Parliament Dean C [**]
+290;Parliament Dean D [**]
+291;1st Parliament Dean [**]
+292;2nd Parliament Dean [**]
+293;3rd Parliament Dean [**]
+294;4th Parliament Dean [**]
+295;Educated Parliament Dean A [**]
+296;Educated Parliament Dean B [**]
+297;Educated Parliament Dean C [**]
+298;Educated Parliament Dean D [**]
+299;Advanced Parliament Dean [**]
+300;Warrant Parliament Dean [**]
+301;[***] Prestige Master [***]
+302;Base General [*]
+303;Base General [**]
+304;Base General [***]
+305;Rear General
+306;Vice General
+307;Leading General
+308;Head General
+309;Master General
+310;First General
+311;Technical General
+600;Cabinet
+601;Minister
+603;Developer
+604;Gurkensalat
+
+
+

@@ -1,0 +1,149 @@
+<div class="container box">
+   <h1 class="mt-5">Beiträge bearbeiten</h1>
+    <p class="">
+       Du kannst HTML-Code in den Beiträgen benutzen um die Darstellung anzupassen.<br>
+   </p>
+   <p class="font-weight-light">
+    Hier ein paar Beispiele was du damit machen kannst:<br>
+    &lt;br&gt; steht für einen Zeilenumbruch<br>
+    &lt;b&gt;Dieser Text wird fett dargestellt&lt;/b&gt;<br>
+    &lt;i&gt;Dieser Text wird kursiv dargestellt&lt;/i&gt;<br>
+   </p><br>
+   <p id="response" class=" text-success"></p>
+   <br>
+   <div align="left">
+    <button type="button" id="modal_button" class="btn btn-info">Beitrag erstellen</button>
+
+   </div>
+   <br />
+   <div id="result" class="table-responsive"> <!-- Daten Tabelle!-->
+
+   </div>
+  </div>
+ </body>
+</html>
+
+<div id="articleModal" class="modal fade">
+ <div class="modal-dialog">
+  <div class="modal-content">
+   <div class="modal-header">
+    <h4 class="modal-title">Neuen Beitrag erstellen</h4>
+   </div>
+   <div class="modal-body">
+    <input placeholder="Titel" type="text" name="title" id="title" class="form-control" />
+    <br />
+    <textarea class="form-control" name="text" rows="5" placeholder="Dein Text" id="text"></textarea><br>
+    <br />
+   </div>
+   <div class="modal-footer">
+    <input type="hidden" name="id" id="id" />
+    <input type="submit" name="action" id="action" class="btn btn-success" />
+    <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button>
+   </div>
+  </div>
+ </div>
+</div>
+
+<script>
+$(document).ready(function(){
+ fetchUser(); //Lädt tabelle
+ function fetchUser() 
+ {
+  var action = "Load";
+  $.ajax({
+   url : "ajax/editcontent-b.php", 
+   method:"POST", 
+   data:{action:action}, 
+   success:function(data){
+    $('#result').html(data); 
+   }
+  });
+ }
+
+//RESET
+ $('#modal_button').click(function(){
+  $('#articleModal').modal('show'); 
+  $('#title').val(''); 
+  $('#text').val(''); 
+  $('.modal-title').text("Neuen Beitrag erstellen"); 
+  $('#action').val('Erstellen'); 
+ });
+
+
+ $('#action').click(function(){
+  var articleTitle = $('#title').val(); 
+  var articleText = $('#text').val(); 
+  var id = $('#id').val();  
+  var action = $('#action').val();  
+  if(articleTitle != '' && articleText != '') 
+  {
+   $.ajax({
+    url : "ajax/editcontent-b.php",    
+    method:"POST",     
+    data:{articleTitle:articleTitle, articleText:articleText, id:id, action:action},
+    success:function(data){
+     $("#response").html(data); 
+     $('#articleModal').modal('hide'); 
+     fetchUser(); 
+    }
+   });
+  }
+  else
+  {
+   $("#response").html("Bitte fülle beide Felder aus"); 
+  }
+ });
+
+//Beitrag bearbeiten
+ $(document).on('click', '.update', function(){
+  var id = $(this).attr("id"); 
+  var action = "Select";  
+  $.ajax({
+   url:"ajax/editcontent-b.php",  
+   method:"POST",    
+   data:{id:id, action:action},
+   dataType:"json", 
+   success:function(data){
+    $('#articleModal').modal('show');   
+    $('.modal-title').text("Beitrag aktualisieren"); 
+    $('#action').val("Aktualisieren");   
+    $('#id').val(id);    
+    $('#title').val(data.title); 
+    $('#text').val(data.text); 
+   }
+  });
+ });
+
+
+ //Löschen
+ $(document).on('click', '.delete', function(){
+  var id = $(this).attr("id"); 
+  if(confirm("Möchtest du diesen Beitrag wirklich löschen?")) 
+  {
+   var action = "Delete"; 
+   $.ajax({
+    url:"ajax/editcontent-b.php",    
+    method:"POST",     
+    data:{id:id, action:action}, 
+    success:function(data)
+    {
+     fetchUser();    
+     $("#response").html(data);    
+    }
+   });
+  }
+  else 
+  {
+   return false;
+  }
+ });
+});
+</script>
+
+
+
+
+
+
+
+

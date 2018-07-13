@@ -1,0 +1,615 @@
+0;Entlassen
+1;Trainee
+2;Field Agent
+3;Experienced Agent
+4;Escort Agent
+5;Special Agent
+6;Armed Agent
+7;Intelligence Agent
+8;Supervising Agent
+9;Senior Agent
+10;First Class Agent
+11;HQ Supporter I
+12;HQ Supporter II
+13;HQ Helper I
+14;HQ Helper II
+15;HQ Assistant I
+16;HQ Assistant II
+17;HQ Supervisor I
+18;HQ Supervisor II
+19;HQ Commander
+20;HQ Commander I
+21;HQ Commander II
+22;HQ Commander III
+23;HQ Commander IV
+24;Safety Agent
+25;Safety Agent I
+26;Safety Regulator
+27;Safety Inspector
+28;Safety Customs
+29;Safety Investigator
+30;Safety Expert
+31;Advanced Safety
+32;Head of Safety
+33;Chief of Safety
+34;Trial Escort
+35;Escort Field Agent
+36;Escort Exp. Agent
+37;Escort Special Agent
+38;Escort Armed Agent
+39;Escort Intelligence Agent
+40;Escort Supervising Agent
+41;Escort Senior Agent
+42;Escort First Class Agent
+43;Special Division Beginner
+44;Special Division Agent
+45;Special Division Liaison
+46;Educated Special Division Agent
+47;Master Agent of Special Affairs
+48;Gold Agent of Special Affairs
+49;Full Educated Agent of Spec. Aff
+50;High Ranked Agent of SD
+51;First Observer
+52;Second Observer
+53;Third Observer
+54;Fourth Observer
+55;Fifth Observer
+56;Supporting Observer
+57;Observer of Order
+58;Second Observer of Order
+59;Third Observer of Order
+60;Master Observer
+61;Educated Observer
+62;Final Observer
+63;Media Policy Deputy
+64;Internal Policy Deputy
+65;Advanced Policy Deputy
+66;Deputy of Domestic Affairs
+67;Educated Deputy
+68;Representative of Domestic Affai
+69;Representative of Communication
+70;Representative of Order
+71;Representative of internal Struc
+72;Representative of Advice
+73;Master of Domestic Affairs
+74;Final Deputy of Domestic Affairs
+75;Internal Trainee
+76;Internal Reporter
+77;Internal Analyst
+78;Internal Communicator
+79;Internal Agent I
+80;Internal Agent II
+81;Experienced Internal Agent
+82;Senior Internal Agent
+83;Chief Internal Agent
+84;Chief Internal Agent I
+85;Chief Internal Agent II
+86;Chief Internal Agent III
+87;Chief Internal Agent IV
+88;Master of Intelligence
+89;Head of Intelligence
+90;Foreign Promotion Diplomat
+91;Foreign Authority Diplomat
+92;External Policy Diplomat
+93;Advanced Policy Official
+94;Educated Policy Diplomat
+95;External Affairs Liaison
+96;Alliance Liaison
+97;Immigration Liaison
+98;Diplomat
+99;Senior Diplomat
+100;Ambassador
+101;Consul
+102;Head of Foreign Affairs
+103;Master Diplomat
+104;Final Diplomat
+105;Staff Member I
+106;Staff Member II
+107;Educated Staff Member
+108;Educated Staff Member I
+109;Educated Staff Member II
+110;Potential Executive
+111;Final Staff Member
+112;Trial Trainer
+113;Qualified Trainer
+114;Training Instructor
+115;Senior Training Instructor
+116;Training Supervisor
+117;Training Expert
+118;Experienced Trainer
+119;Veteran Trainer
+120;Head of Trainer
+121;Top Trainer
+122;Educated Trainer
+123;Final Trainer
+124;Field Operator
+125;Experienced Operator
+126;Escort Operator
+127;Special Operator
+128;Armed Operator
+129;Intelligence Operator
+130;Supervising Operator
+131;Senior Operator
+132;First Class Operator
+133;Top Operator
+134;Final Operator
+135;Advanced Agent
+136;Full Advanced Agent
+137;Educated Agent
+138;Full Educated Agent of Unit
+139;Master Agent of Unit
+140;Supporting Agent of Senate
+141;Supporting Agent of Observing
+142;Supporting Agent of Distribution
+143;High Class Agent
+144;High Class Agent I
+145;High Class Agent II
+146;High Class Agent III
+147;Agent of Majority
+148;Agent of Staff
+149;Top Agent
+150;Valuable Agent
+151;Main Agent
+152;Elite Member I (1)
+153;Elite Member I (2)
+154;Elite Member I (3)
+155;Elite Member I (4)
+156;Elite Member I (5)
+157;Elite Member I (6)
+158;Elite Member I (7)
+159;Elite Member I (8)
+160;Elite Member I (9)
+161;Elite Member I (10)
+162;Elite Member I (11)
+163;Elite Member I (12)
+164;Elite Member I (13)
+165;Elite Member I (14)
+166;Elite Member I (15)
+167;Elite Member I (16)
+168;Elite Member I (17)
+169;Elite Member I (18)
+170;Elite Member I (19)
+171;Elite Member I (20)
+172;Elite Member I (21)
+173;Elite Member I (22)
+174;Elite Member I (23)
+175;Elite Member I (24)
+176;Elite Member I (25)
+177;Elite Member I (26)
+178;Elite Member I (27)
+179;Elite Member I (28)
+180;Elite Member I (29)
+181;Elite Member I (30)
+182;Elite Member I (31)
+183;Elite Member I (32)
+184;Elite Member I (33)
+185;Elite Member I (34)
+186;Elite Member I (35)
+187;Elite Member I (36)
+188;Elite Member I (37)
+189;Elite Member I (38)
+190;Elite Member I (39)
+191;Elite Member I (40)
+192;Elite Member I (41)
+193;Elite Member I (42)
+194;Elite Member I (43)
+195;Elite Member I (44)
+196;Elite Member I (45)
+197;Elite Member I (46)
+198;Elite Member I (47)
+199;Elite Member I (48)
+200;Elite Member I (49)
+201;Elite Member I (50)
+202;Elite Member I (51)
+203;Elite Member I (52)
+204;Elite Member I (53)
+205;Elite Member I (54)
+206;Elite Member I (55)
+207;Elite Member I (56)
+208;Elite Member I (57)
+209;Elite Member I (58)
+210;Elite Member I (59)
+211;Elite Member I (60)
+212;Elite Member I (61)
+213;Elite Member I (62)
+214;Elite Member I (63)
+215;Elite Member I (64)
+216;Elite Member I (65)
+217;Elite Member I (66)
+218;Elite Member I (67)
+219;Elite Member I (68)
+220;Elite Member I (69)
+221;Elite Member I (70)
+222;Elite Member I (71)
+223;Elite Member I (72)
+224;Elite Member I (73)
+225;Elite Member I (74)
+226;Elite Member I (75)
+227;Elite Member I (76)
+228;Elite Member I (77)
+229;Elite Member I (78)
+230;Elite Member I (79)
+231;Elite Member I (80)
+232;Elite Member I (81)
+233;Elite Member I (82)
+234;Elite Member I (83)
+235;Elite Member I (84)
+236;Elite Member I (85)
+237;Elite Member I (86)
+238;Elite Member I (87)
+239;Elite Member I (88)
+240;Elite Member I (89)
+241;Elite Member I (90)
+242;Elite Member I (91)
+243;Elite Member I (92)
+244;Elite Member I (93)
+245;Elite Member I (94)
+246;Elite Member I (95)
+247;Elite Member I (96)
+248;Elite Member I (97)
+249;Elite Member I (98)
+250;Elite Member I (99)
+251;Elite Member I (100)
+252;Elite Member I (101)
+253;Elite Member I (102)
+254;Elite Member I (103)
+255;Elite Member I (104)
+256;Elite Member I (105)
+257;Elite Member I (106)
+258;Elite Member I (107)
+259;Elite Member I (108)
+260;Elite Member I (109)
+261;Elite Member I (110)
+262;Elite Member I (111)
+263;Elite Member I (112)
+264;Elite Member I (113)
+265;Elite Member I (114)
+266;Elite Member I (115)
+267;Elite Member I (116)
+268;Elite Member I (117)
+269;Elite Member I (118)
+270;Elite Member I (119)
+271;Elite Member I (120)
+272;Elite Member I (121)
+273;Elite Member I (122)
+274;Elite Member I (123)
+275;Elite Member I (124)
+276;Elite Member I (125)
+277;Elite Member I (126)
+278;Elite Member I (127)
+279;Elite Member I (128)
+280;Elite Member I (129)
+281;Elite Member I (130)
+282;Elite Member I (131)
+283;Elite Member I (132)
+284;Elite Member I (133)
+285;Elite Member I (134)
+286;Elite Member I (135)
+287;Elite Member I (136)
+288;Elite Member I (137)
+289;Elite Member I (138)
+290;Elite Member I (139)
+291;Elite Member I (140)
+292;Elite Member I (141)
+293;Elite Member I (142)
+294;Elite Member I (143)
+295;Elite Member I (144)
+296;Elite Member I (145)
+297;Elite Member I (146)
+298;Elite Member I (147)
+299;Elite Member I (148)
+300;Elite Member I (149)
+301;Elite Member I (150)
+302;Elite Member II (1)
+303;Elite Member II (2)
+304;Elite Member II (3)
+305;Elite Member II (4)
+306;Elite Member II (5)
+307;Elite Member II (6)
+308;Elite Member II (7)
+309;Elite Member II (8)
+310;Elite Member II (9)
+311;Elite Member II (10)
+312;Elite Member II (11)
+313;Elite Member II (12)
+314;Elite Member II (13)
+315;Elite Member II (14)
+316;Elite Member II (15)
+317;Elite Member II (16)
+318;Elite Member II (17)
+319;Elite Member II (18)
+320;Elite Member II (19)
+321;Elite Member II (20)
+322;Elite Member II (21)
+323;Elite Member II (22)
+324;Elite Member II (23)
+325;Elite Member II (24)
+326;Elite Member II (25)
+327;Elite Member II (26)
+328;Elite Member II (27)
+329;Elite Member II (28)
+330;Elite Member II (29)
+331;Elite Member II (30)
+332;Elite Member II (31)
+333;Elite Member II (32)
+334;Elite Member II (33)
+335;Elite Member II (34)
+336;Elite Member II (35)
+337;Elite Member II (36)
+338;Elite Member II (37)
+339;Elite Member II (38)
+340;Elite Member II (39)
+341;Elite Member II (40)
+342;Elite Member II (41)
+343;Elite Member II (42)
+344;Elite Member II (43)
+345;Elite Member II (44)
+346;Elite Member II (45)
+347;Elite Member II (46)
+348;Elite Member II (47)
+349;Elite Member II (48)
+350;Elite Member II (49)
+351;Elite Member II (50)
+352;Elite Member II (51)
+353;Elite Member II (52)
+354;Elite Member II (53)
+355;Elite Member II (54)
+356;Elite Member II (55)
+357;Elite Member II (56)
+358;Elite Member II (57)
+359;Elite Member II (58)
+360;Elite Member II (59)
+361;Elite Member II (60)
+362;Elite Member II (61)
+363;Elite Member II (62)
+364;Elite Member II (63)
+365;Elite Member II (64)
+366;Elite Member II (65)
+367;Elite Member II (66)
+368;Elite Member II (67)
+369;Elite Member II (68)
+370;Elite Member II (69)
+371;Elite Member II (70)
+372;Elite Member II (71)
+373;Elite Member II (72)
+374;Elite Member II (73)
+375;Elite Member II (74)
+376;Elite Member II (75)
+377;Elite Member II (76)
+378;Elite Member II (77)
+379;Elite Member II (78)
+380;Elite Member II (79)
+381;Elite Member II (80)
+382;Elite Member II (81)
+383;Elite Member II (82)
+384;Elite Member II (83)
+385;Elite Member II (84)
+386;Elite Member II (85)
+387;Elite Member II (86)
+388;Elite Member II (87)
+389;Elite Member II (88)
+390;Elite Member II (89)
+391;Elite Member II (90)
+392;Elite Member II (91)
+393;Elite Member II (92)
+394;Elite Member II (93)
+395;Elite Member II (94)
+396;Elite Member II (95)
+397;Elite Member II (96)
+398;Elite Member II (97)
+399;Elite Member II (98)
+400;Elite Member II (99)
+401;Elite Member II (100)
+402;Elite Member II (101)
+403;Elite Member II (102)
+404;Elite Member II (103)
+405;Elite Member II (104)
+406;Elite Member II (105)
+407;Elite Member II (106)
+408;Elite Member II (107)
+409;Elite Member II (108)
+410;Elite Member II (109)
+411;Elite Member II (110)
+412;Elite Member II (111)
+413;Elite Member II (112)
+414;Elite Member II (113)
+415;Elite Member II (114)
+416;Elite Member II (115)
+417;Elite Member II (116)
+418;Elite Member II (117)
+419;Elite Member II (118)
+420;Elite Member II (119)
+421;Elite Member II (120)
+422;Elite Member II (121)
+423;Elite Member II (122)
+424;Elite Member II (123)
+425;Elite Member II (124)
+426;Elite Member II (125)
+427;Elite Member II (126)
+428;Elite Member II (127)
+429;Elite Member II (128)
+430;Elite Member II (129)
+431;Elite Member II (130)
+432;Elite Member II (131)
+433;Elite Member II (132)
+434;Elite Member II (133)
+435;Elite Member II (134)
+436;Elite Member II (135)
+437;Elite Member II (136)
+438;Elite Member II (137)
+439;Elite Member II (138)
+440;Elite Member II (139)
+441;Elite Member II (140)
+442;Elite Member II (141)
+443;Elite Member II (142)
+444;Elite Member II (143)
+445;Elite Member II (144)
+446;Elite Member II (145)
+447;Elite Member II (146)
+448;Elite Member II (147)
+449;Elite Member II (148)
+450;Elite Member II (149)
+451;Elite Member II (150)
+452;Elite Member III (1)
+453;Elite Member III (2)
+454;Elite Member III (3)
+455;Elite Member III (4)
+456;Elite Member III (5)
+457;Elite Member III (6)
+458;Elite Member III (7)
+459;Elite Member III (8)
+460;Elite Member III (9)
+461;Elite Member III (10)
+462;Elite Member III (11)
+463;Elite Member III (12)
+464;Elite Member III (13)
+465;Elite Member III (14)
+466;Elite Member III (15)
+467;Elite Member III (16)
+468;Elite Member III (17)
+469;Elite Member III (18)
+470;Elite Member III (19)
+471;Elite Member III (20)
+472;Elite Member III (21)
+473;Elite Member III (22)
+474;Elite Member III (23)
+475;Elite Member III (24)
+476;Elite Member III (25)
+477;Elite Member III (26)
+478;Elite Member III (27)
+479;Elite Member III (28)
+480;Elite Member III (29)
+481;Elite Member III (30)
+482;Elite Member III (31)
+483;Elite Member III (32)
+484;Elite Member III (33)
+485;Elite Member III (34)
+486;Elite Member III (35)
+487;Elite Member III (36)
+488;Elite Member III (37)
+489;Elite Member III (38)
+490;Elite Member III (39)
+491;Elite Member III (40)
+492;Elite Member III (41)
+493;Elite Member III (42)
+494;Elite Member III (43)
+495;Elite Member III (44)
+496;Elite Member III (45)
+497;Elite Member III (46)
+498;Elite Member III (47)
+499;Elite Member III (48)
+500;Elite Member III (49)
+501;Elite Member III (50)
+502;Elite Member III (51)
+503;Elite Member III (52)
+504;Elite Member III (53)
+505;Elite Member III (54)
+506;Elite Member III (55)
+507;Elite Member III (56)
+508;Elite Member III (57)
+509;Elite Member III (58)
+510;Elite Member III (59)
+511;Elite Member III (60)
+512;Elite Member III (61)
+513;Elite Member III (62)
+514;Elite Member III (63)
+515;Elite Member III (64)
+516;Elite Member III (65)
+517;Elite Member III (66)
+518;Elite Member III (67)
+519;Elite Member III (68)
+520;Elite Member III (69)
+521;Elite Member III (70)
+522;Elite Member III (71)
+523;Elite Member III (72)
+524;Elite Member III (73)
+525;Elite Member III (74)
+526;Elite Member III (75)
+527;Elite Member III (76)
+528;Elite Member III (77)
+529;Elite Member III (78)
+530;Elite Member III (79)
+531;Elite Member III (80)
+532;Elite Member III (81)
+533;Elite Member III (82)
+534;Elite Member III (83)
+535;Elite Member III (84)
+536;Elite Member III (85)
+537;Elite Member III (86)
+538;Elite Member III (87)
+539;Elite Member III (88)
+540;Elite Member III (89)
+541;Elite Member III (90)
+542;Elite Member III (91)
+543;Elite Member III (92)
+544;Elite Member III (93)
+545;Elite Member III (94)
+546;Elite Member III (95)
+547;Elite Member III (96)
+548;Elite Member III (97)
+549;Elite Member III (98)
+550;Elite Member III (99)
+551;Elite Member III (100)
+552;Elite Member III (101)
+553;Elite Member III (102)
+554;Elite Member III (103)
+555;Elite Member III (104)
+556;Elite Member III (105)
+557;Elite Member III (106)
+558;Elite Member III (107)
+559;Elite Member III (108)
+560;Elite Member III (109)
+561;Elite Member III (110)
+562;Elite Member III (111)
+563;Elite Member III (112)
+564;Elite Member III (113)
+565;Elite Member III (114)
+566;Elite Member III (115)
+567;Elite Member III (116)
+568;Elite Member III (117)
+569;Elite Member III (118)
+570;Elite Member III (119)
+571;Elite Member III (120)
+572;Elite Member III (121)
+573;Elite Member III (122)
+574;Elite Member III (123)
+575;Elite Member III (124)
+576;Elite Member III (125)
+577;Elite Member III (126)
+578;Elite Member III (127)
+579;Elite Member III (128)
+580;Elite Member III (129)
+581;Elite Member III (130)
+582;Elite Member III (131)
+583;Elite Member III (132)
+584;Elite Member III (133)
+585;Elite Member III (134)
+586;Elite Member III (135)
+587;Elite Member III (136)
+588;Elite Member III (137)
+589;Elite Member III (138)
+590;Elite Member III (139)
+591;Elite Member III (140)
+592;Elite Member III (141)
+593;Elite Member III (142)
+594;Elite Member III (143)
+595;Elite Member III (144)
+596;Elite Member III (145)
+597;Elite Member III (146)
+598;Elite Member III (147)
+599;Elite Member III (148)
+600;Elite Member III (149)
+601;Elite Member III (150)
+710;Associate Manager
+711;Manager
+712;Senior Manager
+720;New Officer
+721;Learning Officer
+722;Lawful Officer
+723;Chief Warrant Officer
+750;Elected Director
+751;Director
+800;Partial Senator
+801;Senator
+802:Senator of Honor
+900:Developer
